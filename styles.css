@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(37, 34, 255);
+}
+
+.img{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
